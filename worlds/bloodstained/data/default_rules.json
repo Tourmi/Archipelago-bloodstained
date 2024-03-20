@@ -1,0 +1,50 @@
+{
+    "location_4": [
+        {
+            "required_items": [
+                "Double Jump"
+            ]
+        },
+        {
+            "required_items": [
+                "High Jump",
+                "Invert"
+            ]
+        }
+    ],
+    "location_5": [
+        {
+            "required_items": [
+                "Double Jump",
+                "High Jump",
+                "Invert"
+            ]
+        }
+    ],
+    "location_6": [
+        {
+            "required_items": [
+                "Double Jump"
+            ]
+        },
+        {
+            "required_items": [
+                "High Jump"
+            ]
+        },
+        {
+            "required_items": [
+                "Invert"
+            ]
+        }
+    ],
+    "Bael Defeated":[
+        {
+            "required_items":[
+                "Double Jump",
+                "High Jump",
+                "Invert"
+            ]
+        }
+    ]
+}

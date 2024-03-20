@@ -1,0 +1,37 @@
+{
+    "Bael Defeated" : {
+        "id": 0,
+        "is_shard": false,
+        "classification": "progression"
+    },
+    "Double Jump": {
+        "id": 10001,
+        "is_shard": true,
+        "classification": "progression"
+    },
+    "High Jump": {
+        "id": 10002,
+        "is_shard": true,
+        "classification": "progression"
+    },
+    "Invert": {
+        "id": 10003,
+        "is_shard": true,
+        "classification": "progression"
+    },
+    "Carpenter's Key": {
+        "id": 10004,
+        "is_shard": false,
+        "classification": "useful"
+    },
+    "Warhorse's Key": {
+        "id": 10005,
+        "is_shard": false,
+        "classification": "filler"
+    },
+    "Millionaire's Key": {
+        "id": 10006,
+        "is_shard": false,
+        "classification": "trap"
+    }
+}
